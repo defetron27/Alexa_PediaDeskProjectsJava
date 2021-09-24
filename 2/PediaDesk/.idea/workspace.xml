@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abc68653-9473-488a-8074-afe6573bc865" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1021670904">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="3" />
+          <entry key="java" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="6" />
+          <entry key="java" value="1868" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1868" />
+          <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PediaDesk" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/deffe/max/PediaDeskRequestStreamHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/NoIntentHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="23" column="79" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/SessionEndedRequestHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/YesIntentHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="23" column="79" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/CancelOrStopIntentHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="24" column="81" selection-start-line="24" selection-start-column="81" selection-end-line="24" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/LaunchRequestHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="21" column="182" selection-start-line="21" selection-start-column="182" selection-end-line="21" selection-end-column="182" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/HelpIntentHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="22" column="229" selection-start-line="22" selection-start-column="229" selection-end-line="22" selection-end-column="229" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/NameIntentHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/deffe/max/LaunchRequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/SessionEndedRequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Handlers/SessionEndedRequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Utils/Constants.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieCast.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/CastKnowFor.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/CastResponse.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/CastResults.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieCastAndCrew.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieCrew.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/CastDetails.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetailBelongsToCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetailProductionCompanies.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetailProductionCountries.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetailsGenres.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetails.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetailSpokenLanguages.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieResponse.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Models/MovieResults.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Handlers/MovieNameIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/TestData.java" />
+        <option value="$PROJECT_DIR$/test/com/deffe/max/PediaDeskRequestStreamHandlerTest.java" />
+        <option value="$PROJECT_DIR$/test/com/deffe/max/TestData.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Handlers/LaunchRequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Handlers/HelpIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Utils/SearchHit.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Handlers/NameIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/CancelOrStopRequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Handlers/CancelOrStopRequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/PediaDeskRequestStreamHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/YesIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Handlers/YesIntentHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/deffe/max/Handlers/NoIntentHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1275" />
+    <option name="height" value="329" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PediaDesk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PediaDesk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PediaDesk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PediaDesk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PediaDesk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PediaDesk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="max" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PediaDesk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PediaDesk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="max" type="462c0819:PsiDirectoryNode" />
+              <item name="Handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PediaDesk" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="PediaDesk" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="PediaDesk" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="PediaDesk" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PediaDesk" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="PediaDesk" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535977101171" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.deffe.max" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.deffe.max.Handlers" />
+      <recent name="com.deffe.max" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.deffe.max" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/deffe/max" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abc68653-9473-488a-8074-afe6573bc865" name="Default Changelist" comment="" />
+      <created>1535963900628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535963900628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1315" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.2758077" />
+      <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" weight="0.26635146" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.500813" side_tool="true" weight="0.26635146" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.1355398" weight="0.3284553" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Connector for AWS Lambda" order="11" sideWeight="0.86446023" side_tool="true" weight="0.6406504" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Utils/Constants.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/CastKnowFor.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/CastResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/CastResults.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieCast.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieCastAndCrew.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/CastDetails.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetailsGenres.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetails.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetailSpokenLanguages.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieResults.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetailProductionCountries.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetailProductionCompanies.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieDetailBelongsToCollection.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Models/MovieCrew.java" />
+    <entry file="file://$PROJECT_DIR$/PediaDesk.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/MovieNameIntentHandler.java" />
+    <entry file="file://$PROJECT_DIR$/test/com/deffe/max/PediaDeskRequestStreamHandlerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/deffe/max/TestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Utils/SearchHit.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/PediaDeskRequestStreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/NoIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="79" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/SessionEndedRequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/YesIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="79" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/CancelOrStopIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="81" selection-start-line="24" selection-start-column="81" selection-end-line="24" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/LaunchRequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="182" selection-start-line="21" selection-start-column="182" selection-end-line="21" selection-end-column="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/HelpIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="229" selection-start-line="22" selection-start-column="229" selection-end-line="22" selection-end-column="229" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/deffe/max/Handlers/NameIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>PediaDesk:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PediaDesk</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>log4j:log4j:1.2.17</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

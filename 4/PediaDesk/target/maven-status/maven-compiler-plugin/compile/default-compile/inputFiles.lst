@@ -1,0 +1,13 @@
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Utils/SearchQuery.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Handlers/NoIntentHandler.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Handlers/GetMeaningNameIntentHandler.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Handlers/HelpIntentHandler.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Handlers/CancelAndStopIntentHandler.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Handlers/FallbackIntentHandler.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Utils/SearchResult.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Handlers/SessionEndedRequestHandler.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Utils/SearchHit.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Handlers/YesIntentHandler.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/SpeechRequestStreamHandler.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Handlers/LaunchRequestHandler.java
+/home/deffe/Desktop/AlexaSkillProject/PediaDesk/src/main/java/com/def/max/Utils/GoogleWebSearch.java
